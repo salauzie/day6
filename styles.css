@@ -7,7 +7,7 @@ body {
 }
 /*center text alignment*/
 
-body {
+.background {
 	background-image: url(pictures/images-6.jpg), url(pictures/images7.jpg);
 	background-repeat: repeat-y, repeat-y;
 	background-position: right, left;
@@ -23,10 +23,24 @@ a {
 	text-decoration: none;
 }
 
+a {
+	color: black;
+	background-color: white;
+}
 a:hover {
 	text-decoration: underline;
 	}
 /*removing underline from link*/
 /*adding underline to link when hovering*/
 
+.background2 {
+	background-color: #FFF2F5;
+}
 
+.background1 {
+	background-image: url(pictures/images-8.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+/*make background picture full screen*/
