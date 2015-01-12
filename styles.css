@@ -1,0 +1,32 @@
+head {
+	text-align: center;
+}
+
+body {
+	text-align: center;
+}
+/*center text alignment*/
+
+body {
+	background-image: url(pictures/images-6.jpg), url(pictures/images7.jpg);
+	background-repeat: repeat-y, repeat-y;
+	background-position: right, left;
+}
+/*using two pictures in a background*/
+/*only have background pictures on certain sides*/
+
+body {
+	font-size: large;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	}
+/*removing underline from link*/
+/*adding underline to link when hovering*/
+
+
