@@ -2,6 +2,25 @@ head {
 	text-align: center;
 }
 
+h1.gh{
+	color: black;
+	background-color: white;
+	padding: 20px;
+	border: 5px solid black;
+}
+
+
+h1.ih{
+	color: #7ab5ec;
+}
+
+h1.bh{
+	color: black;
+	background-color: white;
+	padding: 20px;
+	border: 5px solid black;
+}
+
 body {
 	text-align: center;
 }
@@ -19,6 +38,16 @@ body {
 	font-size: large;
 }
 
+img.bad-image2{
+	height: 300px;
+	width: 300px;
+}
+
+img.good-image3 {
+	height: 218;
+	width: 350;
+}
+
 a {
 	text-decoration: none;
 }
@@ -26,6 +55,8 @@ a {
 a {
 	color: black;
 	background-color: white;
+	padding: 20px;
+	border: 5px solid black;
 }
 a:hover {
 	text-decoration: underline;
@@ -37,8 +68,22 @@ a:hover {
 	background-color: #FFF2F5;
 }
 
+a.l1 {
+	color: black;
+	background-color: #48b427;
+	padding: 20px;
+	border: 5px solid black;
+}
+
+a.l2 {
+	color: black;
+	background-color: #DC143C;
+	padding: 20px;
+	border: 5px solid black;
+}
+
 .background1 {
-	background-image: url(pictures/images-8.jpg);
+	background-image: url(pictures/6993524-lava.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
